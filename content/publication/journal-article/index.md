@@ -1,8 +1,19 @@
 ---
-title: 'An example journal article'
+title: 'A neural code for egocentric spatial maps in the human medial temporal lobe'
 authors:
   - admin
-  - Robert Ford
+  - Armin Brandt
+  - Peter C. Reinacher
+  - Bernhard P. Staresina
+  - Eric T. Reifenstein
+  - Christoph T. Weidemann
+  - Nora A. Herweg
+  - Ansh Patel
+  - Melina Tsitsiklis
+  - Richard Kempter
+  - Michael J. Kahana
+  - Andreas Schulze-Bonhage
+  - Joshua Jacobs
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
