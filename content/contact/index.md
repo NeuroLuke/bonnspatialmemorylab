@@ -37,7 +37,7 @@ sections:
     
       # Email form provider
       form:
-        provider: netlify
+        provider: googlemail # netlify
         formspree:
           id:
         netlify:
