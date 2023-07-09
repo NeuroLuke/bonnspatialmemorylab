@@ -15,8 +15,7 @@ authors:
   - Andreas Schulze-Bonhage
   - Joshua Jacobs
 author_notes:
-#  - 'Equal contribution'
-#  - 'Equal contribution'
+  - ''
 date: '2021-09-01T00:00:00Z'
 doi: '10.1016/j.neuron.2021.06.019'
 
