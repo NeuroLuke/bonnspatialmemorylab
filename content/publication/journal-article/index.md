@@ -1,27 +1,16 @@
 ---
-title: 'A neural code for egocentric spatial maps in the human medial temporal lobe'
+title: 'An example journal article'
 authors:
   - admin
-  - Armin Brandt
-  - Peter C. Reinacher
-  - Bernhard P. Staresina
-  - Eric T. Reifenstein
-  - Christoph T. Weidemann
-  - Nora A. Herweg
-  - Ansh Patel
-  - Melina Tsitsiklis
-  - Richard Kempter
-  - Michael J. Kahana
-  - Andreas Schulze-Bonhage
-  - Joshua Jacobs
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
-date: '2021-09-01T00:00:00Z'
-doi: 'https://doi.org/10.1016/j.neuron.2021.06.019'
+  - Robert Ford
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
+date: '2015-09-01T00:00:00Z'
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-09-01T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,14 +19,13 @@ publishDate: '2021-09-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-# publication: '*Journal of Source Themes, 1*(1)'
-publication: '*Neuron*'
+publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ''
 
-abstract: Spatial navigation and memory rely on neural systems that encode places, distances, and directions in relation to the external world or relative to the navigating organism. Place, grid, and head-direction cells form key units of world-referenced, allocentric cognitive maps, but the neural basis of self-centered, egocentric representations remains poorly understood. Here, we used human single-neuron recordings during virtual spatial navigation tasks to identify neurons providing a neural code for egocentric spatial maps in the human brain. Consistent with previous observations in rodents, these neurons represented egocentric bearings toward reference points positioned throughout the environment. Egocentric bearing cells were abundant in the parahippocampal cortex and supported vectorial representations of egocentric space by also encoding distances toward reference points. Beyond navigation, the observed neurons showed activity increases during spatial and episodic memory recall, suggesting that egocentric bearing cells are not only relevant for navigation but also play a role in human memory.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Source Themes
@@ -45,15 +33,15 @@ featured: false
 
 # links:
 # - name: ""
-url: "https://www.sciencedirect.com/science/article/pii/S0896627321004608"
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
-# url_code: ''
-# url_dataset: ''
-# url_poster: ''
-# url_project: ''
-# url_slides: ''
-# url_source: ''
-# url_video: ''
+#   url: ""
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
