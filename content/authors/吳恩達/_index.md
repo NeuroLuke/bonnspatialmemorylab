@@ -1,45 +1,39 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Tim Guth
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Tim
+last_name: Guth
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Tim Guth
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: University of Bonn
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests focus on how single-neuron activity and its relationship to local field potentials supports human spatial memory.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Theta-phase locking.
+  - High-frequency oscillations.
+  - Human single-neuron recordings.
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Human medicine, Dr. med. (MD)
+      institution: University of Freiburg
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -48,16 +42,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:guth@mailbox.org'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/GeorgeCushen
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,9 +65,7 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
+#  - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Tim Guth is a Postdoctoral Researcher at the Bonn Spatial Memory Lab.
