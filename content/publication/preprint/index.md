@@ -34,16 +34,16 @@ tags:
 featured: false
 
 links:
-  - name: Custom Link
+  - name: Link
     url: https://www.biorxiv.org/content/10.1101/2022.10.17.512635v1#:~:text=When%20patients%20encoded%20and%20retrieved,the%20patients'%20associative%20learning%20progressed.
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
