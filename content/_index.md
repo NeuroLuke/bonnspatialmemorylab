@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Bonn
+        Spatial Memory Lab
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Bonn Spatial Memory Lab** is a research group at the Department of Epileptology of the University of Bonn. This site is currently under construction.
   
   - block: collection
     content:
