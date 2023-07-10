@@ -23,7 +23,7 @@ sections:
         align: center
         background:
           image:
-            filename: contact.jpg
+            filename: welcome.jpg
             filters:
               brightness: 0.7
           position: center
@@ -33,7 +33,7 @@ sections:
         align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: contact.jpg
             filters:
               brightness: 0.5
           position: center

@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Bonn Spatial Memory Lab** is a research group at the Department of Epileptology of the University of Bonn. This site is currently under construction.
+        The **Bonn Spatial Memory Lab** is a research group at the Department of Epileptology at the University of Bonn Medical Center. We perform cognitive and translational neuroscience research with a focus on the neural basis of spatial navigation and spatial memory in humans.
   
 #  - block: collection
 #    content:
