@@ -20,7 +20,7 @@ sections:
           color: '#666'
       - title: Cognitive neuroscience
         content: 'We perform single-neuron recordings and intracranial EEG in epilepsy patients to understand the neural basis of spatial navigation and memory.'
-        align: left
+        align: center
         background:
           image:
             filename: contact.jpg
@@ -30,7 +30,7 @@ sections:
           color: '#555'
       - title: Diversity and exchange
         content: 'We support diversity, exchange, and are always looking for new collaborations!'
-        align: right
+        align: center
         background:
           image:
             filename: welcome.jpg
@@ -48,7 +48,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
 ---
