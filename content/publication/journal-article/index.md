@@ -32,10 +32,10 @@ publication_types: ['2']
 publication: '*Neuron*'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Spatial navigation and memory rely on neural systems that encode places, distances, and directions in relation to the external world or relative to the navigating organism. Place, grid, and head-direction cells form key units of world-referenced, allocentric cognitive maps, but the neural basis of self-centered, egocentric representations remains poorly understood. Here, we used human single-neuron recordings during virtual spatial navigation tasks to identify neurons providing a neural code for egocentric spatial maps in the human brain. Consistent with previous observations in rodents, these neurons represented egocentric bearings toward reference points positioned throughout the environment. Egocentric bearing cells were abundant in the parahippocampal cortex and supported vectorial representations of egocentric space by also encoding distances toward reference points. Beyond navigation, the observed neurons showed activity increases during spatial and episodic memory recall, suggesting that egocentric bearing cells are not only relevant for navigation but also play a role in human memory.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Source Themes
@@ -75,8 +75,8 @@ projects: []
 slides:
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
