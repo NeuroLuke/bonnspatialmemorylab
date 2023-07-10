@@ -1,6 +1,6 @@
 ---
 title: Tour
-date: 2022-10-24
+date: 2023-07-09
 
 type: landing
 
@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Translational neuroscience
+        content: 'We study the neural codes of spatial navigation and memory in humans and aim at identifying their impairments in Alzheimer's disease and epilepsy.'
         align: center
         background:
           image:
@@ -18,8 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Cognitive neuroscience
+        content: 'We perform single-neuron recordings and intracranial EEG in epilepsy patients to understand the neural basis of spatial navigation and memory.'
         align: left
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Diversity and exchange
+        content: 'We support diversity, exchange, and are always looking for new collaborations!'
         align: right
         background:
           image:
@@ -48,7 +48,7 @@ sections:
       slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
 ---
