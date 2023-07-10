@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Translational neuroscience
-        content: 'We study the neural codes of spatial navigation and memory in humans and aim at identifying their impairments in Alzheimer's disease and epilepsy.'
+        content: We study the neural codes of spatial navigation and memory in humans and aim at identifying their impairments in Alzheimer's disease and epilepsy.
         align: center
         background:
           image:
