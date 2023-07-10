@@ -65,8 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
-  - Researchers
+  - Principal Investigator
 ---
 
 Lukas Kunz is a professor of cognitive and translational neuroscience at the University of Bonn Medical Center. His research interests focus on the neurobiological foundations of spatial navigation and memory in humans. He leads the Bonn Spatial Memory Lab, which performs human single-neuron recordings, intracranial EEG, and functional magnetic resonance imaging while humans perform spatial navigation and memory tasks.
