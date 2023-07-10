@@ -22,7 +22,7 @@ publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
 publication: 'Ripple-locked coactivity of stimulus-specific neurons supports human associative memory'
-publication_short: 'Ripple-locked coactivity and associative memory'
+publication_short: '*bioRxiv*'
 
 abstract: Associative memory is the ability to encode and retrieve relations between different stimuli. To better understand its neural basis, we investigated whether associative memory involves precisely timed spiking of neurons in the medial temporal lobes that exhibit stimulus-specific tuning. Using single-neuron recordings from epilepsy patients performing an associative object–location memory task, we identified the object- and place-specific neurons that encoded the separate elements of each memory. When patients encoded and retrieved particular memories, the relevant object- and place-specific neurons activated synchronously during hippocampal ripples. This ripple-locked coactivity of stimulus-specific neurons emerged over time as the patients’ associative learning progressed. Our results suggest a cellular account of associative memory, in which hippocampal ripples coordinate the activity of specialized cellular populations to facilitate links between stimuli.
 
@@ -68,4 +68,4 @@ projects:
 slides:
 ---
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
