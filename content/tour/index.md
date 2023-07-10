@@ -8,16 +8,6 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Translational neuroscience
-        content: We study the neural codes of spatial navigation and memory in humans and aim at identifying their impairments in Alzheimer's disease and epilepsy.
-        align: center
-        background:
-          image:
-            filename: coders.jpg
-            filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
       - title: Cognitive neuroscience
         content: 'We perform single-neuron recordings and intracranial EEG in epilepsy patients to understand the neural basis of spatial navigation and memory.'
         align: center
@@ -28,6 +18,16 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
+      - title: Translational neuroscience
+        content: We study the neural codes of spatial navigation and memory in humans and aim at identifying their impairments in Alzheimer's disease and epilepsy.
+        align: center
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
       - title: Diversity and exchange
         content: 'We support diversity, exchange, and are always looking for new collaborations!'
         align: center
