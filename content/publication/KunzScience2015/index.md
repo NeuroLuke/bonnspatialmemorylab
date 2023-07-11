@@ -1,5 +1,5 @@
 ---
-title: 'Reduced grid-cell-like representations in adults at genetic risk for Alzheimer's disease'
+title: 'Reduced grid-cell-like representations in adults at genetic risk for Alzheimer''s disease'
 authors:
   - admin
   - Tobias Navarro Schröder
