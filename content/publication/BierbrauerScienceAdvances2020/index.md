@@ -1,5 +1,5 @@
 ---
-title: 'Unmasking selective path integration deficits in Alzheimer's disease risk carriers'
+title: 'Unmasking selective path integration deficits in Alzheimer''s disease risk carriers'
 authors:
   - Anne Bierbrauer
   - admin
