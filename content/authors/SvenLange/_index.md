@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Tim Guth
+title: Sven Lange
 
 # Full name (for SEO)
-first_name: Tim
-last_name: Guth
+first_name: Sven
+last_name: Lange
 
 # Username (this should match the folder name)
 authors:
-  - TimGuth
+  - SvenLange
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Graduate student assistant
 
 # Organizations/Affiliations
 organizations:
@@ -22,18 +22,18 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on how single-neuron activity and its relationship to local field potentials supports human spatial memory.
+bio: I am interested in the lateralisation of the hippocampus in memory processes and spatial navigation, neural correlates of autobiographical memory and imagination in blind persons, and fMRI.
 
 interests:
-  - Theta-phase locking.
-  - High-frequency oscillations.
-  - Human single-neuron recordings.
+  - Lateralisation of the hippocampus in memory processes and spatial navigation.
+  - Autobiographical memory and imaging in blind people.
+  - Functional magnetic resonance imaging.
 
 education:
   courses:
-    - course: Human medicine, Dr. med. (MD)
-      institution: University of Freiburg
-      year: 2023
+    - course: Biology (BSc)
+      institution: University of Bonn
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,16 +42,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:guth@mailbox.org'
+    link: 'mailto:sven-lange95@web.de'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=JomJ0AQAAAAJ&hl=en&oi=ao
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/NeuroGuth
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/citations?user=JomJ0AQAAAAJ&hl=en&oi=ao
+#  - icon: github
+#    icon_pack: fab
+#    link: https://github.com/NeuroGuth
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +68,4 @@ user_groups:
 #  - Visitors
 ---
 
-Tim Guth is a Postdoctoral Researcher at the Bonn Spatial Memory Lab.
+Sven Lange is a Graduate Student Assistant at the Bonn Spatial Memory Lab.
