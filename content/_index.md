@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Bonn
-        Spatial Memory Lab
+        Bonn Spatial Memory Lab
       image:
         filename: welcome.jpg
       text: |
