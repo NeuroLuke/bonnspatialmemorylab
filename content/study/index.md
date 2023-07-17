@@ -15,7 +15,7 @@ sections:
           image:
             filename: study.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.9
           position: center
           color: '#333'
         link:
