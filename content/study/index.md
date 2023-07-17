@@ -18,15 +18,9 @@ sections:
               brightness: 0.9
           position: center
           color: '#333'
-#        link:
-#	email: verhaltensstudiebonn@gmail.com
-#        icon: envelope
-#          icon_pack: fas
-#          text: Contact us
-#          url: verhaltensstudiebonn@gmail.com
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '10px'
+      slide_height: ''
       is_fullscreen: true
       # Automatically transition through slides?
       loop: false
