@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: study.pdf
+            filename: study.jpg
             filters:
               brightness: 0.5
           position: center
