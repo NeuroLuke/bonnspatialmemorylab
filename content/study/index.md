@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: Study on spatial memory
-        content: 'Thank you very much for your interest in our study on spatial memory! Please send us an email to make an appointment at a date and time that works best for you. | verhaltensstudiebonn@gmail.com'
+        content: 'Thank you very much for your interest in our study on spatial memory! Please send us an email to make an appointment at a date and time that works best for you.<br/><br/>verhaltensstudiebonn@gmail.com'
         align: center
         background:
           image:
