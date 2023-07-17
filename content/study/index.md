@@ -19,10 +19,10 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: envelope
           icon_pack: fas
           text: Contact us
-          url: ../contact/
+          url: verhaltensstudiebonn@gmail.com
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
