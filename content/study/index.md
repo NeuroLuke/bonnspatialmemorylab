@@ -18,9 +18,9 @@ sections:
               brightness: 0.9
           position: center
           color: '#333'
-        link:
-	  email: verhaltensstudiebonn@gmail.com
-          icon: envelope
+#        link:
+	email: verhaltensstudiebonn@gmail.com
+        icon: envelope
 #          icon_pack: fas
 #          text: Contact us
 #          url: verhaltensstudiebonn@gmail.com
