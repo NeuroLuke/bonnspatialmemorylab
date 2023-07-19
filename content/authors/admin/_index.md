@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lukas Kunz
+title: Lukas Kunz, MD, PhD
 
 # Full Name (for SEO)
 first_name: Lukas
@@ -10,7 +10,7 @@ last_name: Kunz
 superuser: true
 
 # Role/position
-role: Professor of Cognitive and Translational Neuroscience
+role: Principal investigator<br>Professor of Cognitive and Translational Neuroscience
 
 # Organizations/Affiliations
 organizations:
