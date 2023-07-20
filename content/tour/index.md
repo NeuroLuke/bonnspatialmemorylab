@@ -29,9 +29,7 @@ sections:
           position: right
           color: '#666'
       - title: Neuroscientific methods
-        content:
-	  '* Virtual-reality tasks
-	  * Single-neuron recordings in humans'
+        content: '* Virtual-reality tasks * Single-neuron recordings in humans'
         align: center
         background:
           image:
