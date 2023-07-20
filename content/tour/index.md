@@ -29,7 +29,7 @@ sections:
           position: right
           color: '#666'
       - title: Neuroscientific methods
-        content: '* Virtual-reality tasks * Single-neuron recordings in humans'
+        content: 'Virtual-reality tasks<br>Single-neuron recordings in humans<br>Intracranial EEG in humans<>Functional magnetic resonance imaging'
         align: center
         background:
           image:
