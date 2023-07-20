@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tim Guth
+title: Tim Guth, MD
 
 # Full name (for SEO)
 first_name: Tim
