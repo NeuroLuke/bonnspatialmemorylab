@@ -28,8 +28,10 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Diversity and exchange
-        content: 'We support diversity, exchange, and are always looking for new collaborations!'
+      - title: Neuroscientific methods
+        content:
+	  * Virtual-reality tasks
+	  * Single-neuron recordings in humans
         align: center
         background:
           image:
