@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sven Lange
+title: Sven Lange, BSc
 
 # Full name (for SEO)
 first_name: Sven
