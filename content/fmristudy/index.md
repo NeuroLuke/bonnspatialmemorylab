@@ -1,6 +1,6 @@
 ---
 title: fMRI study
-date: 2024-12-30
+date: 2023-12-30
 
 type: landing
 

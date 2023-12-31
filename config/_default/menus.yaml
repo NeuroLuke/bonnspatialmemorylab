@@ -18,10 +18,10 @@ main:
     weight: 50
   - name: fMRI study
     url: fmristudy
-    weight: 55
+    weight: 60
   - name: Study
     url: study
-    weight: 60    
+    weight: 70    
   - name: Contact
     url: contact
-    weight: 70
+    weight: 80
