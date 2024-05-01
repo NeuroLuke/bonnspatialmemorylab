@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
 
-        The **Bonn Spatial Memory Lab** is a research group at the Department of Epileptology at the University of Bonn Medical Center, led by Lukas Kunz. We perform cognitive and translational neuroscience research with a focus on the neural basis of spatial navigation and spatial memory in humans.
+        The **Bonn Spatial Memory Lab** is a research group at the Department of Epileptology at the University Hospital Bonn, led by Lukas Kunz. We perform cognitive and translational neuroscience research with a focus on the neural basis of spatial navigation and spatial memory in humans.
   
 #  - block: collection
 #    content:
