@@ -1,5 +1,5 @@
 ---
-title: We welcome Tim Guth as a new postdoctoral researcher in the Bonn Spatial Memory Lab
+title: We welcome Dr. Tim Guth as a new postdoctoral researcher in the Bonn Spatial Memory Lab
 date: 2023-07-01
 ---
 
