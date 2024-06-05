@@ -73,4 +73,4 @@ user_groups:
 #  - Visitors
 ---
 
-Philipp Büchel is a PhD Student at the Bonn Spatial Memory Lab.
+Philipp is a PhD student in the lab and interested in studying the neural underpinnings of episodic memory in humans, including all its defining components (“what”, “when” & “where”). During his time in the Bonn Spatial Memory Lab, he will focus on researching spatial memory and navigation, using a mix of virtual reality, eye-tracking and multimodal imaging methods (fMRI & single-neuron recordings).
