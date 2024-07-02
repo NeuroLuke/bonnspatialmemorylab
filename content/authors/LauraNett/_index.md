@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:laura.heike.nett@bioinfsys.uni-giessen.de'
+    link: 'mailto:laura.nett@ukbonn.de'
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
