@@ -1,5 +1,5 @@
 ---
-title: Ernst Struengmann Forum on ''Navigation Research: Mapping the Future''
+title: Ernst Struengmann Forum
 date: 2024-12-02
 ---
 
