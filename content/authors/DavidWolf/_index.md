@@ -1,6 +1,6 @@
 ---
 # Display name
-title: David Wolf, MD
+title: David Wolf
 
 # Full name (for SEO)
 first_name: David
@@ -30,7 +30,7 @@ interests:
 
 education:
   courses:
-    - course: Human medicine, Dr. med. (MD)
+    - course: Human medicine
       institution: Heidelberg University
       year: 2022
 
