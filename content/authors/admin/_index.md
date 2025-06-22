@@ -40,10 +40,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:drlukaskunz@gmail.com'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/lks_kunz
+    link: 'mailto:lukas.kunz@ukbonn.de'
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://twitter.com/lks_kunz
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=2zf30E0AAAAJ&hl=de
