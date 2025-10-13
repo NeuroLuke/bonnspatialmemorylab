@@ -1,5 +1,5 @@
 ---
-title: Lab outing
+title: Talk at the International Max Planck Research School (IMPRS) in Münster
 date: 2025-10-09
 ---
 
