@@ -1,10 +1,10 @@
 ---
-title: We welcome Iris Weichert as a new postgraduate research assistant in the Bonn Spatial Memory Lab
-date: 2025-11-01
+title: We welcome Rashi Somani for an 8-week lab rotation in the Bonn Spatial Memory Lab
+date: 2025-10-27
 ---
 
-The Bonn Spatial Memory Lab is very happy to welcome Iris Weichert as a new lab member!
+It's great to have you in the lab, Rashi!
 
 <!--more-->
 
-Iris recently completed her master's studies in Cognitive and Clinical Neuroscience in Maastricht and Oxford. In our lab, Iris will investigate single-neuron responses of spatial views during human spatial navigation and develop methods for studying macroscopic correlates of these neuronal responses using ultra-high-field fMRI.
+Rashi is a master's student in neuroscience at the University of Bonn. In our lab, she will study place cell-like responses in human single-neuron recordings.
