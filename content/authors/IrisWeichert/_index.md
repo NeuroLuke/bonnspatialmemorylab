@@ -34,7 +34,7 @@ education:
       institution: University of Oxford (United Kingdom)
       year: 2025
     - course: MScRes Cognitive and Clinical Neuroscience
-      institution: University of Maastricht (Netherlands)
+      institution: Maastricht University (Netherlands)
       year: 2025
     - course: BSc Psychology
       institution: Radboud University (Netherlands)
