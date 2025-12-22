@@ -64,8 +64,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+#  - Researchers
 #  - Visitors
+  - Alumni
 ---
 
 Rashi is a MSc Student, currently investigating the role of place-like cells in human virtual spatial navigation.
