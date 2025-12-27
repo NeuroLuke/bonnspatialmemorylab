@@ -23,4 +23,5 @@ Laura presented at HSN and SfN:
 - Cellular correlates of allocentric and egocentric spatial memory in humans
 
 https://www.humansingleneuron.org/
-https://www.sfn.org/meetings/neuroscience-2024
+
+https://www.sfn.org/meetings/neuroscience-2025
