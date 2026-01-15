@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rashi Somani, BSc
+title: Rashi Somani
 
 # Full name (for SEO)
 first_name: Rashi

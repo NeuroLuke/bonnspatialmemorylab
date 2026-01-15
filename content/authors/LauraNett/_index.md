@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Laura Nett, BSc, MSc
+title: Laura Nett
 
 # Full name (for SEO)
 first_name: Laura

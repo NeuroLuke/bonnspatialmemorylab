@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sudipta Barman, BSc
+title: Sudipta Barman
 
 # Full name (for SEO)
 first_name: Sudipta

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Philipp Büchel, BSc, MSc
+title: Philipp Büchel
 
 # Full name (for SEO)
 first_name: Philipp

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Tamara Gedankien, PhD
+title: Tamara Gedankien
 
 # Full name (for SEO)
 first_name: Tamara

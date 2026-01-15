@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Iris Weichert, BSc, MScRes
+title: Iris Weichert
 
 # Full name (for SEO)
 first_name: Iris

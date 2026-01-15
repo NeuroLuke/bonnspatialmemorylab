@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lukas Kunz, MD, PhD
+title: Lukas Kunz
 
 # Full Name (for SEO)
 first_name: Lukas
