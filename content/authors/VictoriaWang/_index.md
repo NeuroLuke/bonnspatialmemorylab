@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Victoria is a MSc student interested in spatial navigation and is currently investigating place-like cells in humans.
+bio: Victoria is a MSc student interested in spatial navigation, currently investigating place-like cells in humans.
 
 interests:
   - Cross-species comparisons of spatial navigation.
@@ -69,4 +69,4 @@ user_groups:
 #  - Visitors
 ---
 
-Victoria is a MSc student interested in spatial navigation and is currently investigating place-like cells in humans as a lab rotation in the Bonn Spatial Memory Lab.
+Victoria is a MSc student interested in spatial navigation, currently investigating place-like cells in humans as a lab rotation in the Bonn Spatial Memory Lab.
