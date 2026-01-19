@@ -10,7 +10,7 @@ last_name: Kunz
 superuser: true
 
 # Role/position
-role: Principal Investigator<br>Professor of Cognitive and Translational Neuroscience
+role: Principal Investigator
 
 # Organizations/Affiliations
 organizations:
