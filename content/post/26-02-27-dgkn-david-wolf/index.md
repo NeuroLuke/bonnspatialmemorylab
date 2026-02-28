@@ -1,5 +1,5 @@
 ---
-title: David attended DGKN 2026 in Augsburg
+title: DGKN 2026 in Augsburg
 date: 2026-02-27
 ---
 
