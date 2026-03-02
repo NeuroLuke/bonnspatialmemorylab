@@ -7,7 +7,7 @@ authors:
   - Nuttida Rungratsameetaweemana
   - admin
 date: '2025-07-26T00:00:00Z'
-doi: 'https://doi.org/10.1038/s41467-025-62553-9'
+doi: 'https://doi.org/10.1016/j.neuropsychologia.2025.109230'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-07-26T00:00:00Z'
