@@ -22,7 +22,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests focus on the effects of epileptic activity on cellular tuning profiles in the human medial temporal lobe.
+bio: My research interests focus on the effects of epileptic activity on functionally defined cell types of the human medial temporal lobe.
 
 interests:
   - Effects of epileptic activity on cognition.
@@ -68,4 +68,4 @@ user_groups:
 #  - Visitors
 ---
 
-Tim Guth is a Postdoctoral Researcher at the Bonn Spatial Memory Lab.
+Ann-Katrin is a medical doctoral candidate in the Bonn Spatial Memory Lab.
