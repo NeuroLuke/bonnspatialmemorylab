@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate student assistant
+role: Postgraduate student assistant
 
 # Organizations/Affiliations
 organizations:
@@ -72,4 +72,4 @@ user_groups:
 #  - Alumni
 ---
 
-Sri Shanmuka Sai Kotcharlakota is a Graduate Student Assistant in the Bonn Spatial Memory Lab.
+Sri Shanmuka Sai Kotcharlakota is a Postgraduate Student Assistant in the Bonn Spatial Memory Lab.
