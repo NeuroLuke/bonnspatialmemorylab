@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: fMRI study on spatial memory
-        content: 'Thank you very much for your interest in our fMRI study on spatial memory! Please send us an email to make an appointment at a date and time that works best for you.<br/><br/>bonnspatialmemorylab@gmail.com<br/><br/>Please note that you are not allowed to participate in the study if you: have metal implants; fear closed spaces (claustrophobia); are under 18 years old; are pregnant; have a neurological/psychiatric disease; take drugs affecting the central nervous system.'
+        content: 'Thank you very much for your interest in our fMRI study on spatial memory! Please send us an email to make an appointment at a date and time that works best for you.<br/><br/>bonnspatialmemorylab@gmail.com<br/><br/>Please note that you are not allowed to participate in the study if you: have metal implants; fear closed spaces (claustrophobia); are not between 50 and 80 years old; are pregnant; have a neurological/psychiatric disease; take drugs affecting the central nervous system.'
         align: center
         background:
           image:
