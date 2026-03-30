@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate student assistant
+role: Graduate Student Assistant
 
 # Organizations/Affiliations
 organizations:

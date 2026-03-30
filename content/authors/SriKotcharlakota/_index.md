@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postgraduate student assistant
+role: Postgraduate Student Assistant
 
 # Organizations/Affiliations
 organizations:

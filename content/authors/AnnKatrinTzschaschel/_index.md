@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Medical doctoral candidate
+role: Medical Doctoral Candidate
 
 # Organizations/Affiliations
 organizations:
