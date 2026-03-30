@@ -1,5 +1,5 @@
 ---
-title: Sri Shanmuka Sai Kotcharlakota joins the Bonn Spatial Memory Lab as a new graduate student assistant
+title: Sri Shanmuka Sai Kotcharlakota joins the Bonn Spatial Memory Lab as a new postgraduate student assistant
 date: 2026-03-01
 ---
 

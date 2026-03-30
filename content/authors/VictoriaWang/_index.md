@@ -65,8 +65,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+#  - Researchers
 #  - Visitors
+  - Alumni
 ---
 
 Victoria is a MSc student interested in spatial navigation, currently investigating place-like cells in humans as a lab rotation in the Bonn Spatial Memory Lab.
