@@ -1,5 +1,5 @@
 ---
-title: New funding through the Collaborative Research Center 1315!
+title: New funding through the Collaborative Research Center 1315
 date: 2026-05-15
 ---
 
