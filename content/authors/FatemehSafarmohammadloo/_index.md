@@ -64,9 +64,9 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+#  - Researchers
 #  - Visitors
-#  - Alumni
+  - Alumni
 ---
 
 Fatemeh Safarmohammadloo is a Graduate Student Assistant in the Bonn Spatial Memory Lab.
