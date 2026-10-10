@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MSc Neuroscience student (lab rotation)
+role: MSc Neuroscience student (master's thesis)
 
 # Organizations/Affiliations
 organizations:
